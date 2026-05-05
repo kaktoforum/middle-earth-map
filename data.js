@@ -15,8 +15,8 @@ const COLORS = {
 };
 
 const CATEGORY_LABELS = {
-    silmarillion: 'The Silmarillion',
-    hobbit:       'The Hobbit',
+    silmarillion: 'Сильмаллирион',
+    hobbit:       'Хоббит',
     fellowship:   'The Fellowship of the Ring',
     towers:       'The Two Towers',
     king:         'The Return of the King',
@@ -587,12 +587,12 @@ const events = [
     },
     {
         id: "rivendell-moon-letters",
-        name: "Rivendell \u2014 The Moon Letters",
+        name: "Ривендел \u2014 Лунные письмена",
         category: 'hobbit',
         era: "TA", year: 2941, sortKey: 6972.062,
         px: 3922, py: 1096,
         description: "Elrond hosts the company and reads the moon letters on Thr\u00f3r's map, revealing the secret entrance to Erebor: 'Stand by the grey stone when the thrush knocks, and the last light of Durin's Day will shine upon the keyhole.'",
-        characters: "Bilbo, Gandalf, Thorin, Elrond"
+        characters: "Бильбо, Гендальф, Торин, Эльронд"
     },
     {
         id: "goblin-town",
