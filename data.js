@@ -43,12 +43,12 @@ const events = [
     // ── The Silmarillion ──
     {
         id: "cuivienen",
-        name: "Cuivi\u00e9nen \u2014 Awakening of the Elves",
+        name: "Куивиэнен \u2014 Пробуждение эльфов",
         category: 'silmarillion',
         era: "FA", year: 1, sortKey: 0.5,
         px: 7091, py: 1327,
-        description: "Cuivi\u00e9nen, the Water of Awakening, was a bay on the shores of the great inland Sea of Helcar in the far east of Middle-earth. Here the first Elves awoke under starlight, long before the rising of the Sun and Moon. The Valar discovered them and summoned them westward on the Great Journey to Valinor \u2014 though some refused the call and remained, becoming the Avari, the Unwilling.",
-        characters: "The first Elves, Orom\u00eb"
+        description: "Куивиэнен, Воды Пробуждения, крупный залив в западной оконечности моря Хелькар на востоке Средиземья. Здесь первые эльфы пробудились под светом звёзд, задолго до восхода Солнца и Луны. Валар обнаружили их и призвали отправиться на запад, в Великое Путешествие к Валинору, хотя некоторые отвергли этот зов и остались, став Авари — Отказавшимися.",
+        characters: "Первые эльфы, Оромэ"
     },
     {
         id: "khazad-dum-awakening",
