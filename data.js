@@ -17,10 +17,10 @@ const COLORS = {
 const CATEGORY_LABELS = {
     silmarillion: 'Сильмаллирион',
     hobbit:       'Хоббит',
-    fellowship:   'The Fellowship of the Ring',
-    towers:       'The Two Towers',
-    king:         'The Return of the King',
-    appendix:     'Appendices'
+    fellowship:   'Братство Кольца>',
+    towers:       'Две Башни',
+    king:         'Возвращение Короля',
+    appendix:     'Дополнения'
 };
 
 const CATEGORY_ICONS = {
